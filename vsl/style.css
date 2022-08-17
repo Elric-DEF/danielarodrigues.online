@@ -24,7 +24,6 @@ html,body{
     font-size: 50px;
     font-weight: 700;
     text-align: center;
-    letter-spacing: -1px;
     line-height: 1.2;
 }
 
@@ -320,7 +319,7 @@ img.secure-ft {
     }
 
     .headline{
-        font-size: 28px;
+        font-size: 24px;
     }
 
     #header .span-header{
@@ -342,10 +341,6 @@ img.secure-ft {
 
     .video-absolute {
         height: 100%!important;
-    }
-
-    .arrow-down-wrapper{
-        background-color: rgb(179, 69, 118);
     }
 
     .semRelacaoFB p{
