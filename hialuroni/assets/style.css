@@ -600,6 +600,9 @@ img.boleto-icon-obg {
     font-size: 35px;
     margin: 50px 0 50px 0px;
 }
+.potes-oferta{
+    text-align: center;
+}
 span.arrow-down img {
     clear: both;
     display: block;
@@ -923,7 +926,7 @@ img.pote-unico-pv3 {
     font-weight: 400;
     font-size: 18px;
 	text-align: left !important;
-    font-size: 18px;
+    font-size: 18px;
 	margin: 15px 0;
 }
 .face-pv3, .list-face-pv3 {
