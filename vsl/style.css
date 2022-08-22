@@ -237,15 +237,15 @@ section.garantia{
     display: flex;
     align-items: center;
     width: 100%;
-    padding: 0 350px;
-    height: 200px;
+    padding: 0 280px;
+    height: 220px;
     text-align: center;
     background: rgb(17,80,217);
     background: linear-gradient(180deg, rgb(173, 37, 98) 0%, rgb(141, 17, 73)100%);
 }
 
 .garantia .texto-garantia{
-    padding-right: 220px;
+    padding-right: 170px;
     text-align: left;
     color: #ffffff;
 }
